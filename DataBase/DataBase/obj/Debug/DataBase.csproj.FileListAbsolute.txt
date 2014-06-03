@@ -1,0 +1,9 @@
+c:\users\kelevra\documents\visual studio 2010\Projects\DataBase\DataBase\bin\DataBase.dll
+c:\users\kelevra\documents\visual studio 2010\Projects\DataBase\DataBase\bin\DataBase.pdb
+c:\users\kelevra\documents\visual studio 2010\Projects\DataBase\DataBase\obj\Debug\DataBase.dll
+c:\users\kelevra\documents\visual studio 2010\Projects\DataBase\DataBase\obj\Debug\DataBase.pdb
+F:\politechnika\S6\bazyDanych\OdMichala\DataBase\DataBase\bin\DataBase.dll
+F:\politechnika\S6\bazyDanych\OdMichala\DataBase\DataBase\bin\DataBase.pdb
+F:\politechnika\S6\bazyDanych\OdMichala\DataBase\DataBase\obj\Debug\ResolveAssemblyReference.cache
+F:\politechnika\S6\bazyDanych\OdMichala\DataBase\DataBase\obj\Debug\DataBase.dll
+F:\politechnika\S6\bazyDanych\OdMichala\DataBase\DataBase\obj\Debug\DataBase.pdb
